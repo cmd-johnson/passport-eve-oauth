@@ -1,0 +1,31 @@
+{
+  "name": "passport-eve-oauth",
+  "author": {
+    "name": "Jonas Auer",
+    "email": "jonas.auer.94@gmail.com"
+  },
+  "description": "EVE Online OAuth SSO authentication strategy for Passport",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmd-johnson/passport-eve-oauth"
+  },
+  "keywords": [
+    "passport",
+    "eve",
+    "online",
+    "eveonline",
+    "eve-online",
+    "oauth",
+    "crest",
+    "authentication"
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "bugs": {
+    "url": "https://github.com/cmd-johnson/passport-eve-oauth/issues"
+  },
+  "license": "MIT"
+}

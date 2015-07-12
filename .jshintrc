@@ -1,0 +1,33 @@
+{
+	"node": true,
+	"bitwise": true,
+	"camelcase": true,
+	"curly": true,
+	"eqeqeq": true,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"quotmark": "single",
+	"undef": true,
+	"unused": true,
+	"strict": true,
+	"trailing": true,
+	"smarttabs": false,
+	/*"predef": [ // Extra globals.
+		"define",
+		"require",
+		"exports",
+		"module",
+		"describe",
+		"before",
+		"beforeEach",
+		"after",
+		"afterEach",
+		"it",
+		"inject"
+	],*/
+	"indent": 2, // Specify indentation spacing
+	"devel": false, // Allow development statements e.g. `console.log();`.
+	"noempty": true // Prohibit use of empty blocks.
+}
